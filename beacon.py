@@ -134,7 +134,3 @@ def logger(toggle, log): #logging helper function
     return
   if (toggle == 1):
     return logging.info(log)
-
-    
-
-  
